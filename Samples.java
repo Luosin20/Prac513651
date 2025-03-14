@@ -36,5 +36,5 @@ public class Student {
         System.out.println(SEAM);
         System.out.println(FM);
         
-}
+    }
 }
